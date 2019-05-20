@@ -1,0 +1,36 @@
+body{
+    font-family:Comic Sans MS;
+    background-image:linear-gradient(-160deg, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000, #00FF00, #00FFFF, #FF00FF, #FFFF00, #0000FF, #FF0000);
+    text-shadow:3px 0px #FFFF00, 6px 0px #FFFF00, 9px 0px #FFFF00, 12px 0px #FFFF00 ;
+    background-size:100% 1000%;
+    background-repeat:no-repeat;
+    filter:contrast(3) saturate(3);
+    cursor: url("https://p.memecdn.com/avatars/s_266409_506f76ea0aef3.png"), auto;
+}
+.storeName{
+  padding:10px;
+    text-align:center;
+    font-size:50px;   
+}
+.inputs{
+    display:flex;
+    justify-content:space-around;
+    margin:50px;
+}
+.buttonDiv{
+    margin:50px;
+    text-align:center;
+}
+.heading{
+    display:flex;
+    justify-content:space-around;  
+}
+.item{
+  display:flex;
+  justify-content:space-around;
+
+}
+img{
+    width:100px;
+    height:100px;
+}
